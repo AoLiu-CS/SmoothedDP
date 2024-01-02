@@ -1,4 +1,4 @@
-This folder includes the code for TMLR paper: Smoothed Differential Privacy (Authors: Ao Liu, Yu-Xiang Wang, and Lirong Xia)
+This codebase includes the code for TMLR paper: Smoothed Differential Privacy ( https://openreview.net/forum?id=CviCLt44Em) 
 
 Please cite the above paper if you want to reuse our code.
 
